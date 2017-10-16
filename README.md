@@ -1,7 +1,7 @@
 "# Task" 
 
 This project contains a single class for a simple web crawler program.
-It allows to extract URLs contained in HTML file, reading from a URL the user can enter from console. Only links in "<a></a>" tags have been considered.
+It allows to extract URLs contained in HTML file, reading from a URL the user can enter from console. Only links in "\<a></a>" tags have been considered.
 
 The class:
 
