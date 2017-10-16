@@ -5,7 +5,7 @@ It allows to extract URL contained in HTML file, reading from a URL the user can
 
 The class:
 
-  - 1 method getAllLinks() to read from console the URL input by the user: the HTML source is parsed and all URLs are listed. This method is helped by extractTagAText() and extractLink().
+  - 1 method getAllLinks() to read from console the URL input by the user: the HTML source is parsed and all URLs are listed. This method is helped by extractTagAText() and extractLink().
   
   - 2 methods, extractTagAText() and extractLink(), to (i) extract the text inside <a href></a> from HTML line and (ii) extract valid URL from that. 
   
