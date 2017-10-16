@@ -15,5 +15,5 @@ The class:
   
   To improve.
   - By now the program considers as link also links commented.
-  - By now the program can detect a link in \<a>\</a> also if the tag is in the previous line, but if the text of the URL is split across more than one line, either it can't detect the URL or it cut it up to the end of current line.
+  - By now the program can detect a link in \<a>\</a> also if the tag - but not the href attribute is in the previous line, but if the text of the URL is split across more than one line, either it can't detect the URL or it cut it up to the end of current line.
   - Only link starting with http(s) have been considered for this occasion.
